@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+### List of favorite hobbies
+* Flying
+* Reading
+* Doing Puzzles
+* Walking near the Ocean
+* Watching movies with my family
