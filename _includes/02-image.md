@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![The Coder Pilot Banner](https://thecoderpilot.files.wordpress.com/2018/01/cropped-01.jpg)
